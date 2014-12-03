@@ -1,4 +1,7 @@
-bp-inspector
-============
+Breakpoint Inspector
+====================
 
-Break pint inspector for your site
+
+Is your site responsive?
+
+This tool will help you test the breakpoints in your site.
