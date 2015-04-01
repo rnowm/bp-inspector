@@ -25,3 +25,7 @@ Then add the breakpoints you need like so:
                       'LG' : '1200' }
 </script>
 ```
+
+## Demo
+
+See a demo [here](http://rnowm.github.io/bp-inspector/).
